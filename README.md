@@ -1,11 +1,12 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurxvWz&show_icons=true&theme=radical" alt="Saurxv's GitHub Stats" width="50%" align="left"/>
-  <img src="https://github.com/user-attachments/assets/ed909103-a6a7-4e49-a9be-6928f5467848" alt="Saurxv's Profile Picture" width="30%" align="right"/>
-</p>
-
 # Yo Twin 🐍
 
 I'm Saurxv, a laid-back developer who grooves with Python. I craft tools and projects that not only function smoothly but also bring a touch of cool to the tech world.
+
+---
+
+## 📈 GitHub Stats
+
+![Saurxv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saurxvWz&show_icons=true&theme=radical)
 
 ---
 
@@ -21,12 +22,6 @@ I'm Saurxv, a laid-back developer who grooves with Python. I craft tools and pro
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
-
----
-
-## 📈 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saurxvWz&layout=compact&theme=radical)
 
 ---
 
