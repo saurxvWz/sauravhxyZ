@@ -1,10 +1,11 @@
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your_user_id?v=4" width="200" alt="Saurxv's Profile Picture"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saurxvWz&show_icons=true&theme=radical" alt="Saurxv's GitHub Stats" width="50%" align="left"/>
+  <img src="https://github.com/user-attachments/assets/ed909103-a6a7-4e49-a9be-6928f5467848" alt="Saurxv's Profile Picture" width="30%" align="right"/>
 </p>
 
-# Yo Twin 👋
+# Yo Twin 🐍
 
-I'm Saurxv, a laid-back developer who grooves with JavaScript and vibes with Python. I craft tools and projects that not only function smoothly but also bring a touch of cool to the tech world.
+I'm Saurxv, a laid-back developer who grooves with Python. I craft tools and projects that not only function smoothly but also bring a touch of cool to the tech world.
 
 ---
 
@@ -12,13 +13,7 @@ I'm Saurxv, a laid-back developer who grooves with JavaScript and vibes with Pyt
 
 ### Languages
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-
-### Frameworks & Libraries
-
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 
 ### Tools & Platforms
 
@@ -31,17 +26,7 @@ I'm Saurxv, a laid-back developer who grooves with JavaScript and vibes with Pyt
 
 ## 📈 GitHub Stats
 
-![Saurxv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saurxvWz&show_icons=true&theme=radical)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saurxvWz&layout=compact&theme=radical)
-
----
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter)](https://twitter.com/yourprofile)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail)](mailto:youremail@example.com)
 
 ---
 
@@ -59,7 +44,7 @@ A Python-based tool related to Instagram functionalities.
 
 ## 🎯 Goals
 
-- 🔭 Currently enhancing my skills in JavaScript and Python.
+- 🔭 Currently enhancing my skills in Python.
 - 🌱 Exploring new frameworks and technologies.
 - 💬 Open to collaborating on exciting projects and innovative ideas.
 
